@@ -73,10 +73,10 @@ module.exports = {
       accounts: [SEPOLIA_PRIVATE_KEY]
     },
     hardhat: {},
-    // ethereum: {
-    //   url: `https://eth-mainnet.g.alchemy.com/v2/${ALCHEMY_API_KEY}`,
-    //   accounts: [ETHEREUM_PRIVATE_KEY]
-    // }
+    ethereum: {
+      url: `https://eth-mainnet.g.alchemy.com/v2/${ALCHEMY_API_KEY}`,
+      accounts: [ETHEREUM_PRIVATE_KEY]
+    }
   },
   paths: {
     sources: "./contracts",
