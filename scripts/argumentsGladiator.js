@@ -1,0 +1,6 @@
+module.exports = [
+    "0xb1b3188aD25B37Efe2456f4044615eA32ACa6B24", // Charity 1
+    "0x8f3490Bb604b14cB199c64d49690c8d5FA5A8051", // Charity 2
+    "0xBbE045Fffe8730EB28B98F7e7a31a47ba008F003", // Charity 3
+    "0x932e4dF290642e9c6e479945d6CB0957C4129FBc" // Dev
+];
